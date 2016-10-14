@@ -11,7 +11,7 @@
 //NAME:- Akshay Raina
 /////////////////////////////
 ###########################
-#CRUISE TRAVEL MANAGENMENT#
+#CRUISE MANAGENMENT SYSTEM#
 ###########################        */
 
 /*## HEADER FILES ##*/
@@ -820,7 +820,7 @@ void main()
   		 cout<<"             |==|  |==|  |==|                 \n";
   		 cout<<"           __|__|__|__|__|__|_                \n";
   		 cout<<"        __|___________________|___            \n";
-  		 cout<<"     __|__[]__[]__[]__[]__[]__[]__|______     CRUISE DATABASE MANAGEMENT\n";
+  		 cout<<"     __|__[]__[]__[]__[]__[]__[]__|______     CRUISE MANAGEMENT SYSTEM\n";
   		 cout<<"     \\................................./ \n";
  		 cout<<"      \\.............................../  \n";
 	     getch();
