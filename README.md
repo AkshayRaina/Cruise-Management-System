@@ -2,7 +2,10 @@
 
 Institution: HKBK College of Engineering, Bangalore | Visvesvaraya Technological University, Karnataka
 
-The objective and scope of the project was to collect all the related information about a customer’s voyage. The software involves all the facilities provided at the customers’ disposal. The software is used to record the customer’s personal details and expenses, and to compute the bills. 
+• Collect related information for customer’s voyage with facilities provided at customer’s disposal. 
+• The software is used to record the customer’s personal details, expenses and computing bills.
+• During implementation necessary support and training is provided to expertise the software.
+• It simplifies the task and reduces the paper work. 
 
 Follow the following steps:
 
@@ -14,4 +17,4 @@ Follow the following steps:
 
 4) Double click on the file, named - CRUISE.CPP 
 
-Used: Turbo C++ 3.0, Windows, C++, OOPS
+Stack: Turbo C++ 3.0, Windows, C++, OOPS
